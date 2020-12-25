@@ -1,0 +1,2 @@
+webpackJsonp([10],{"9GaX":function(t,e){},ua3t:function(t,e,n){"use strict";Object.defineProperty(e,"__esModule",{value:!0});var c={name:"Test",components:{PicZoom:n("x/o7").a}},a={render:function(){var t=this.$createElement,e=this._self._c||t;return e("div",{staticStyle:{width:"500px",height:"500px"}},[e("pic-zoom",{attrs:{url:"https://lupic.cdn.bcebos.com/20200412/3022102513_18_780_434.jpg"}})],1)},staticRenderFns:[]};var o=n("VU/8")(c,a,!1,function(t){n("9GaX")},"data-v-560406e4",null);e.default=o.exports}});
+//# sourceMappingURL=10.e85c587b9b87fdfecf19.js.map
